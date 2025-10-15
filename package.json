@@ -1,0 +1,12 @@
+{
+  "name": "fastify-rest-starter",
+  "version": "1.0.0",
+  "description": "Simple REST API with Fastify",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "fastify": "^4.21.0"
+  }
+}
